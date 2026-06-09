@@ -17,6 +17,6 @@ Lohanne Rachelle Costa Alves de Souza
 
 Vinicius Miranda Santos
 
-linkdo video: 
+linkdo video: https://drive.google.com/file/d/1WQ0Qg7zzr62pk6bNd2wVQZDBMYW4aVVG/view?usp=sharing
 
 link do projeto : https://www.figma.com/design/xxzxfQuwCFrSZjsgj6zgrQ/Projeto-Final?node-id=0-1&p=f&t=xuOHFqQPvK9anKLz-0
