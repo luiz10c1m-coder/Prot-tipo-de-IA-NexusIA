@@ -4,11 +4,17 @@ Protótipo de IA Bancária Integrada (Figma): Desenvolvimento da NexusIA, uma in
 contém nesse repositótio : arquivo escrito em word e video
 
 projeto desenvolvido pelos seguintes desenvolvedores|Estudante de Ads 2º Semestre UDF : 
+
 Luiz Henrique Pacheco dos Santos
+
 Pedro Henrique Neves
+
 Gustavo Magalhães Silva
-Hebert Vinícius Almeida de Souza 
+
+Hebert Vinícius Almeida de Souza
+
 Lohanne Rachelle Costa Alves de Souza
+
 Vinicius Miranda Santos
 
 linkdo video: 
